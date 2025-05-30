@@ -1,0 +1,47 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+display: flex;
+justify-content:center;
+background-color: #F2F2F2;
+min-height: 100vh;
+
+}
+.title{
+  
+}
+.title-one{
+  color: #E53D2C;
+}
+.menu-superior{
+display: ;
+}
+.menu-superior ul li{
+  display: inline;
+  padding: 5px; 
+}
+.menu-superior-button{
+  background-color: #E53D2C;
+  border: none;
+  padding: 10px;
+  border-radius: 3px;
+  color: #F9F9F9;;
+}
+.menu{
+  background-color:#F9F9F9;
+  list-style-type: none;
+  padding: 10px;
+  margin: 10px;
+  
+}
+.menu ul li{
+    display: inline;
+    padding: 8px 10px;
+    
+}
+input{
+  border-radius: 10px;
+}
